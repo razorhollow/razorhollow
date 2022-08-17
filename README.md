@@ -1,4 +1,4 @@
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=razorhollow&show_icons=true&theme=chartreuse-dark)
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=razorhollow&show_icons=true&theme=chartreuse-dark&hide=stars,issues)
 
 [![Rob's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razorhollow&theme=chartreuse-dark)](https://github.com/razorhollow/github-readme-stats)
 
